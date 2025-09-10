@@ -5,4 +5,4 @@ A simple anime recommendation system based on tags and genres. Developed in Pyth
 [Try it on Streamlit](https://animerecommendation-system.streamlit.app/)
 
 ## Preview
-[App screenshot](images/screenshot.png)
+![App screenshot](images/screenshot.png)
